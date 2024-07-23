@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hritiksajwan
 - 👀 I’m interested in the working of world
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me - sajwanhritik5@gmail.com
 
 <!---
